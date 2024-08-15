@@ -1,6 +1,6 @@
 function getRandomWordFromFile() {
   // google sheets dictionary
-  let fileId = '1o-72izllNbSPfDCNMLLTAZQ3oVTxO2Wt';
+  let fileId = '1OwlBfeL3RaPpM7LATKlBd8LgFBgjDJ-a';
   let file = DriveApp.getFileById(fileId);
   let fileContent = file.getBlob().getDataAsString();
   let words = fileContent.split(/\s+|,|\n/).filter(Boolean);
