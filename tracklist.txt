@@ -1080,3 +1080,34 @@ Tsuyoshi Yamamoto Trio – Midnight Sugar [1974]
 19:13 Toshiaki Yokoto, Yukio Eto - Venus
 23:12 Anthony Hobson - Savannah Gold
 26:50 Corimbo - Renee de Marie
+
+Last login: Sat Nov 30 18:00:00 on ttys000
+mai@216491 ~ % cd Desktop/ytdlp-mp3s
+mai@216491 ytdlp-mp3s % ./upload dyenm.mp3 saber.jpg
+mai@216491 ytdlp-mp3s % cd ..
+mai@216491 ~ % ‘
+quote> 00:00 Cecil Wary, Alan Feanch - Wild Red Poppy
+quote> 03:06 Phil Moon - Ozone
+quote> 05:33 Cymbals - Do You Believe In Magic?
+quote> 08:39 Melting Holidays - Pavement
+quote> 12:54 Fievel Is Glauque - Go Down Softly / The River
+quote> 18:39 Rick Kiefer - Lush Life
+quote> 22:53 Nelson Riddle - Rachel
+quote> 25:42 Paul Williams - Wistful Dreams
+quote> 27:18 Kerry Beaumont - Earthwatch
+quote> ‘
+zsh: command not found:
+
+Last login: Mon Oct 7 10:00:00 on ttys001
+mai@216491 ~ % no description.
+
+00:00 L'Impératrice — Hématome
+03:34 Little Simz - Woman
+07:59 Thundercat - Friend Zone
+11:09 Potsu - Reaching For a Star
+13:35 Alfa Mist - 7th October
+16:04 King Geedorah - Next Levels
+19:50 Nujabes - Lady Brown
+23:03 Papooz - Pacific Telephone
+25:58 NxxxxxS - Slump ft. Freddie Dredd
+27:35 Danger Doom - Crosshairs
