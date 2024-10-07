@@ -1071,6 +1071,7 @@ Tsuyoshi Yamamoto Trio – Midnight Sugar [1974]
 01:47:27 It Could Happen to You
 01:54:41 Sweet Georgia Blues
 
+
 :wq
 
 00:00 Alfa Mist - Breathe
@@ -1081,11 +1082,15 @@ Tsuyoshi Yamamoto Trio – Midnight Sugar [1974]
 23:12 Anthony Hobson - Savannah Gold
 26:50 Corimbo - Renee de Marie
 
+
+trees jpg
+
 Last login: Sat Nov 30 18:00:00 on ttys000
 mai@216491 ~ % cd Desktop/ytdlp-mp3s
 mai@216491 ytdlp-mp3s % ./upload dyenm.mp3 saber.jpg
 mai@216491 ytdlp-mp3s % cd ..
 mai@216491 ~ % ‘
+
 quote> 00:00 Cecil Wary, Alan Feanch - Wild Red Poppy
 quote> 03:06 Phil Moon - Ozone
 quote> 05:33 Cymbals - Do You Believe In Magic?
@@ -1096,7 +1101,11 @@ quote> 22:53 Nelson Riddle - Rachel
 quote> 25:42 Paul Williams - Wistful Dreams
 quote> 27:18 Kerry Beaumont - Earthwatch
 quote> ‘
+
 zsh: command not found:
+
+
+service
 
 Last login: Mon Oct 7 10:00:00 on ttys001
 mai@216491 ~ % no description.
