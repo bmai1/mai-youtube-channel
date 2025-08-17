@@ -1,4 +1,4 @@
-Reference document for the mai youtube channel:
+Reference document for the mai YouTube channel:
 
 https://docs.google.com/document/d/1ZBTsQ05rEUskPTNWz4--2dNgBV1-ydPIZLDnSnHRbvk/edit?usp=sharing
 
