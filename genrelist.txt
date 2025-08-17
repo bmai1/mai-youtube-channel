@@ -8,25 +8,70 @@ jpjrr - soundtrack, contemporary j-classical
 Black screen - liquid dnb, jungle, breakcore
 f7bc46504 - smooth vocal jazz
 GIx4PblHS - jazz (bebop, big band, fusion, ...)
-6c5FXD0sf - samba, bossa, soundtrack, j-rock/pop
-ndjsYi7IL - edm, ambient, soundtrack, shibuya-kei (j-pop), hip-hop, rap
-nanami - contemporary j-classical, soundtrack
-773FWn5iZ - j-rock/shoegaze
-23xxx - j-samba/bossa/jazz
+6c5FX - samba, bossa, soundtrack, j-rock/pop
+ndjsY - edm, ambient, soundtrack, shibuya-kei (j-pop), hip-hop, rap
+nanami - contemporary classical, soundtrack
+773FW - j-rock/shoegaze
+2xxxx - j-samba/bossa/jazz
 define saudade - (foreign) bossa nova
-chmod +x funny.sh - techno, acid-trance, ambient electronic
+chmod -R +x . (chmod +x funny) - acid techno, ambient electronic, acid-trance
 garden - soundtrack
 choose peace - electronic lounge, j-pop, jazz
 sCmxMdz* - dnb, breakcore, jungle, happy hardcore, techno
 1000659135 - Yoko Kanno (contemporary classical)
-nicotine - Ricardo Marana (European atmospheric)
-xx/xx/xxxx - soundtrack, jazz, electronic (sequence & tracker)
-déjà vu - kayōkyoku
-words - vocal pop & jazz, soundtrack
-best before - ambient electronic, easy listening, jazz
-1568210F8 - jazz
+nicotine - Ricardo Marana (European atmospheric, easy listening)
+datetime - easy listening, soundtrack, electronic (sequence & tracker)
+déjà vu - j-pop (kayokyoku)
+words.txt - vocal pop & jazz, soundtrack
+Sm0W8+ - (fantasy) soundtrack, ambient
+Arch Linux (file) - bossa nova, jazz, kpm library
+best before month day - ambient electronic, easy listening, jazz
+15682 - jazz (vocal, smooth)
 despair - dnb, ambient, j-pop, edm
-rip - jazz
+rip - jazz (vocal, smooth)
 :wq - rnb, jazz, indie
-trees jpg - ambient electronic, shibuya-kei (j-pop), soundtrack
-service - hip-hop, rap, pop/indie
+i don’t think you will… (trees jpg) - ambient electronic, shibuya-kei (j-pop), soundtrack
+did you really take a… (service) - rap, pop, indie
+when i wake up you’ll… - jazz (vocal, guitar), soundtrack
+killing spree - j-pop/rock, shibuya-kei, indietronica
+:̶.̶|̶:̶;̶  - ambient, classical (neoclassical, romantic)
+7i3sSrJbQMaV+gwpHBYy2A== - (sex)trance, shibuya-kei, bossa nova
+ἀγαπητοί, ἀγαπῶμεν ἀλλήλους - neoclassical (+20th-century), folk, soundtrack, ambient
+P&Sw/G:S12012-S22025(?) - dnb (j-vgm), electronic
+regret - j-pop (city pop), easy listening, soundtrack
+truth - soul, gospel, jazz (hard bop), soundtrack
+form - indie, bossa nova, easy listening
+playlist - jazz (bossa nova, fusion), soundtrack, ambient
+solidworks tutorial - techno, dnb
+happy end - jazz fusion, soundtrack
+all-time low - rock (1), bossa nova, jazz
+mining for diamonds - j-pop, jazz, and jazz fusion
+re - rnb (?), trad pop (usa usa usa), barbershop
+Make up your mind already - j-rock/shoegaze, c-pop/jazz
+ah ! - pop and stuff
+#2b5259 - piano (classical, never ending rhodes!!, ambient)
+ebxzwsbaudwjaabehonckgwz - jazz
+JTIKDEWLJXFFDSUVLNACTIPLAMHHYMONBLAI - j-pop and shibuya-kei
+funeral playlist - dnb & jungle
+afterlife - (death, nu, alt) metal, rock
+happy little accidents - orchestral film score
+bad faith - euro-pop, disco, new-age
+1879 - jpop and soundtrack
+cynicism and paranoia - library (electronic, classical)
+aerospace - soundtrack, jpop, jazz
+。. - jpop, electronic
+.fr - jazz
+  2 - jazz
+music for empty rooms - jpop and bossa nova
+music 3 - mostly jazz funk/fusion?
+dying hdd - electronic stuff
+stolen moments - bossa/samba
+music for - experimental electronic, jazz fusion,  j-pop
+death flags - j-pop, dnb/downtempo, bossa
+summer snow -  classical, soundtrack
+mryifz obpqollj - downtempo, acid jazz
+Modern Loneliness - downtempo, dnb
+Otonashi’s Argument - j-pop
+Home Invasion - deep house
+curren chan - mostly jazz
+dystopia - ambient, electronic, orchestral soundtrack
